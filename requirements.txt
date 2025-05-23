@@ -1,0 +1,14 @@
+python-dotenv
+ipykernel
+langchain_community
+langchain_core
+langchain_openai
+langchain_groq
+sse_starlette
+streamlit
+pydantic<2.0.0
+fastapi<0.100.0
+langchain
+langserve==0.0.18
+uvicorn
+httpx>=0.24.1,<0.27
