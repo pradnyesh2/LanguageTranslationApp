@@ -39,7 +39,9 @@ Follow these steps to get the project up and running on your local machine.
 * `pip` (Python package installer)
 
 ### 1. Clone the Repository
+https://github.com/pradnyesh2/LanguageTranslationApp.git
 
+gh repo clone pradnyesh2/LanguageTranslationApp
 
 ### 2. Create a Virtual Environment (Recommended)
 conda create -p venv python==3.12 -y
